@@ -1,3 +1,3 @@
 # Sp18Analytics
 
-#EDA on anonymous survey
+EDA on anonymous survey
